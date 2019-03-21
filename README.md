@@ -1,5 +1,10 @@
 # Python shell with default imports
-Instead of running `python3`, then `import numpy as np`, then `import .....` just run `pyclc`.
+Instead of typing multiple lines every time like:  
+
+    $ python3
+    >>> import numpy as np
+    >>> import matplotlib.pyplot as plt
+just run one command.
 ## Install
 Customize imports in `pyclc.py`, or leave default.  
 Run:  
