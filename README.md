@@ -4,7 +4,10 @@ Instead of typing multiple lines every time like:
     $ python3
     >>> import numpy as np
     >>> import matplotlib.pyplot as plt
-just run one command.
+just run one command:
+```
+    $ pyclc
+```
 ## Install
 Customize imports in `pyclc.py`, or leave default.  
 Run:  
